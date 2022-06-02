@@ -1,0 +1,6 @@
+Logfile of replicates for UCEC 
+TP = tumor, NT = normal
+ 
+The number of unique replicates for the TP samples are: 4 
+The Number of total replicates for the TP samples are: 10
+No replicates are found in the NT samples in this cancer type

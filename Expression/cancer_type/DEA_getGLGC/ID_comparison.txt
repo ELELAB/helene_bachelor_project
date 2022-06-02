@@ -1,0 +1,4 @@
+The ensembl gene ID's upregulated are not identical between the two analysis
+The ensembl gene ID's downregulated are not identical between the two analysis
+The HUGO gene ID's upregulated are not identical between the two analysis
+The HUGO gene ID's downregulated are not identical between the two analysis
