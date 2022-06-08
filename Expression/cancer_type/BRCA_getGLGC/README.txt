@@ -1,5 +1,6 @@
-TCGA mRNA expression data in Primary Tumor and Normal Tissue samples
-for Breast Invasive Carcinoma (BRCA).
+This directory (BRCA_getGLGC) performs pre-processing of TCGA mRNA expression data in Primary Tumor and Normal Tissue samples
+for Breast Invasive Carcinoma (BRCA). The normalization step are performed by both the new generated table and the orgiginal
+geneInfoHT table to investigate the differences.
 
 * REQUIREMENTS
 - Packages (version used to produce this data):
