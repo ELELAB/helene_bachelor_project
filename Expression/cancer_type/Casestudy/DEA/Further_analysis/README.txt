@@ -1,5 +1,5 @@
 * INTRODUCTION *
-This directory (Further_analysis) do visualizations of the differential expressed genes (DEGs) found in the folder DEA.
+This directory (Further_analysis) do visualizations (Volcano and Ridgeline plots) of the differential expressed genes (DEGs) found in the folder DEA.
 
 * REQUIREMENTS *
 The directory needs to be a subfolder to the DEA folder, where the data are
