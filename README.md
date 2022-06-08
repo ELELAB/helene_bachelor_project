@@ -1,4 +1,4 @@
-# helenes_bachelor_project
+# Improving the workflows for analyses of gene expression data from The Cancer Genome Atlas
 
 The program files (R scripts - files with extension .R) in this repository
 are licensed under the terms of the GNU General Public License (see LICENSE
