@@ -1,5 +1,8 @@
 * INTRODUCTION *
-This directory (Investigation) do d
+This directory (Investigation) creates scatterplots with the differentially expressed genes logFC,
+to compare the old and new method of normalization. Furthermore investigates the potential unique gene IDs
+observed in the Venndiagram, by creating bar plots visualizing the number of potential unique genes and genes
+found in the opposite table of what they were normalized by.
 
 * REQUIREMENTS *
 The directory needs to be a subfolder to DEA, as it loads data
@@ -31,7 +34,7 @@ Unique_IDs.R
 	
 	Step 5. Investigate if unique DEGs are present in both tables
 	
-	Step 6. Create dataframe for each method and visualize by barplots
+	Step 6. Create dataframe for each method and visualize by bar plots
 	
 * OUTPUT
 Non_intersection_ID.R
