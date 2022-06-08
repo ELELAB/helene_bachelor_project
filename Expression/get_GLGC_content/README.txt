@@ -1,5 +1,5 @@
 * INTRODUCTION *
-This directory (gc_content_normalization) generates a gene annotation table for GRCh38 (hg38), containing gene length and GC-content.
+This directory (get_GLGC_content) generates a gene annotation table for GRCh38 (hg38), containing gene length and GC-content.
 This directory contains as well a copy of the orginal geneInfoHT table: oldGC_geneinfoHT.txt.
 
 * REQUIREMENTS *
