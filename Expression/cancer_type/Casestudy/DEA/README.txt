@@ -1,6 +1,6 @@
 * INTRODUCTION *
 This directory (DEA) do differential expression analysis (DEA) by the revised TCGAanalyze
-function on preprocessed breast cancer data, which is normalized by the new GC content normalization.
+function on preprocessed UCEC data, which is normalized by the new GC content normalization.
 It compare the differential expresed genes (DEG's) from limma and edgeR by Venndiagrams and
 investigate the top 200 most up- and downregulated genes with correlations plots.
 It performs an enrichment analysis of DEGs found by both Limma and edgeR.
