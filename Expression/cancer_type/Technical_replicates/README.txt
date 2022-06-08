@@ -1,4 +1,7 @@
-Replicate analysis for all cancer types
+This direcotry (Technical_replicates) perform replicate analysis compatible for running for all cancer types, one at a time.
+The outputs have been ordered in folders so all the .csv files can be found for all cancer types in the replicate_info folder
+and the .png files can be found for cancer types having replicates in the following folders respectively;
+Barplot, Distribution_plot and PCA_plot.
 
 * REQUIREMENTS
 - Packages (version used to produce this data):
@@ -57,8 +60,4 @@ and it loads the functions found in Replicate_functions.r.
 
 Run TCGA_expression.r on the terminal like:
 “Rscript Replicate_functions.r [cancer]”
-
-The .csv files can be found for all cancer types in the replicate_info folder
-and the .png files can be found for cancer types having replicates in the following
-folders respectively; Barplot, Distribution_plot and PCA_plot.
 
